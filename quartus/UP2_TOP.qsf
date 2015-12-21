@@ -219,7 +219,6 @@ set_global_assignment -name VERILOG_FILE ../src/Digits0to2.v
 set_global_assignment -name VERILOG_FILE ../src/Digits0to5.v
 set_global_assignment -name VERILOG_FILE ../src/Digits0to9.v
 set_global_assignment -name VERILOG_FILE ../src/DigitsForHourUnits.v
-set_global_assignment -name VERILOG_FILE ../src/digitshmins.v
 set_global_assignment -name VERILOG_FILE ../src/EventDispatcher.v
 set_global_assignment -name VERILOG_FILE ../src/prescaler.v
 set_global_assignment -name VERILOG_FILE ../src/UP2_TOP.v
